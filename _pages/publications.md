@@ -1,8 +1,19 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=ZubTNs0AAAAJ)"
+title: "Selected Publications [(Google Scholar Profile)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=ZubTNs0AAAAJ)"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<b>[An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding](to appear)</b> <br> 
+<b>Wang, Wenhan; Li, Yanzhou; Li, Anran; Zhang, Jian; Ma, Wei; Liu, Yang
+<i>The 2024 International Conference on Software Engineering</i>. <b>ICSE 2024</b>
+  
+<br>
+<b>[A Black-Box Attack on Code Models via Representation Nearest Neighbor Search](to appear)</b> <br> 
+<b>Jie Zhang, Wei Ma, Qiang Hu, Shangqing Liu, Xiaofei Xie, YVES LE TRAON, Yang Liu
+<i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023</b>
+
 <br>
 <b>[GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses](https://github.com/graphcode2vec/graphcode2vec)</b> <br> 
 <b>Wei Ma</b>, Mengjie Zhao(<font color='blue'>equal contribution</font>), Ezekiel Soremekun, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, Yves Le Traon
