@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 <br>
-<b>[An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding](to appear)</b> <br> 
-<b>Wang, Wenhan; Li, Yanzhou; Li, Anran; Zhang, Jian; Ma, Wei; Liu, Yang
-<i>The 2024 International Conference on Software Engineering</i>. <b>ICSE 2024</b>
-  
+<b>Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment</b> <br>
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon
+<i>2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN)</i>. <b>CAIN 2023</b>
+
 <br>
 <b>[A Black-Box Attack on Code Models via Representation Nearest Neighbor Search](to appear)</b> <br> 
 <b>Jie Zhang, Wei Ma, Qiang Hu, Shangqing Liu, Xiaofei Xie, YVES LE TRAON, Yang Liu
