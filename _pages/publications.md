@@ -11,7 +11,7 @@ Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le
 
 <br>
 <b>[A Black-Box Attack on Code Models via Representation Nearest Neighbor Search](to appear)</b> <br> 
-<b>Jie Zhang, Wei Ma, Qiang Hu, Shangqing Liu, Xiaofei Xie, YVES LE TRAON, Yang Liu
+Jie Zhang, Wei Ma, Qiang Hu, Shangqing Liu, Xiaofei Xie, YVES LE TRAON, Yang Liu
 <i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023</b>
 
 <br>
