@@ -5,6 +5,16 @@ author_profile: true
 ---
 
 <br>
+<b>Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study</b> <br>
+Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy, Yves Le Traon
+<i>2024 Empirical Software Engineering. Just Accepted (Jun 2024).</i>. <b>EMSE 2024</b>
+
+<br>
+<b>Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities</b> <br>
+Wei Ma, Shangqing Liu*, Mengjie Zhao, Xiaofei Xie, Wenhang Wang, Qiang Hu, Jie Zhang, and Yang Liu
+<i>2024 ACM Trans. Softw. Eng. Methodol. Just Accepted (May 2024). https://doi.org/10.1145/3664606</i>. <b>TOSEM 2024</b>
+
+<br>
 <b>Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment</b> <br>
 Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon
 <i>2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN)</i>. <b>CAIN 2023</b>
