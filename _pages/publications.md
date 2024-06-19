@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 <b>Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning</b> <br>
-Zhihao Lin, Wei Ma, Tao Lin, Yaowen Zheng, Jingquan Ge, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu, Li Li
+Zhihao Lin, Wei Ma(<font color='blue'>equal contribution</font>), Tao Lin, Yaowen Zheng, Jingquan Ge, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu, Li Li
 <i> FSE 2030 .</i><b></b>
 
 <br>
