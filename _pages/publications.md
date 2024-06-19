@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+<b>An Empirical Study on Noisy Label Learning for Program Understanding</b> <br>
+Wenhan Wang, Yanzhou Li, Anran Li, Jian Zhang, Wei Ma, and Yang Liu
+<i>In Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (ICSE '24).</i><b>ICSE 2024</b>
+
+<br>
 <b>Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study</b> <br>
 Xueqi Dang, Yinghua Li, Wei Ma, Yuejun Guo, Qiang Hu, Mike Papadakis, Maxime Cordy, Yves Le Traon
 <i>2024 Empirical Software Engineering. Just Accepted (Jun 2024).</i><b>EMSE 2024</b>
