@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+<b>Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning</b> <br>
+Zhihao Lin, Wei Ma, Tao Lin, Yaowen Zheng, Jingquan Ge, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu, Li Li
+<i> FSE 2030 .</i><b></b>
+
+<br>
 <b>An Empirical Study on Noisy Label Learning for Program Understanding</b> <br>
 Wenhan Wang, Yanzhou Li, Anran Li, Jian Zhang, Wei Ma, and Yang Liu
 <i>In Proceedings of the IEEE/ACM 46th International Conference on Software Engineering (ICSE '24).</i><b>ICSE 2024</b>
