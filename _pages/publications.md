@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+<b>Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.</b> <br>
+Ma, Wei, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, Shangqing Liu, Jian Zhang, Yue Xue, and Yang Liu.
+<i> ICSE 2025</i><b></b>
+
+<br>
 <b>Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning</b> <br>
 Zhihao Lin, Wei Ma(<font color='blue'>equal contribution</font>), Tao Lin, Yaowen Zheng, Jingquan Ge, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu, Li Li.
 <i> FSE 2030.</i><b></b>
