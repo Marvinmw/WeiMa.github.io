@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-SnT, Luxembourg<br>
-Email: wei.ma [at] uni.lu
+SMU, Singapore<br>
+Email: weima [at] smu.edu.sg
 
