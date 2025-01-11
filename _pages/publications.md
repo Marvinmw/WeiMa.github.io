@@ -5,14 +5,34 @@ author_profile: true
 ---
 
 <br>
+<b>A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation..</b> <br>
+Xu, Hanxiang, Wei Ma(<font color='blue'>equal contribution</font>), Ting Zhou, Yanjie Zhao, Kai Chen, Qiang Hu, Yang Liu, and Haoyu Wang.
+<i> ICSE 2025-Industry</i><b></b>
+
+<br>
 <b>Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.</b> <br>
 Ma, Wei, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, Shangqing Liu, Jian Zhang, Yue Xue, and Yang Liu.
 <i> ICSE 2025</i><b></b>
 
 <br>
+<b>Automated commit intelligence by pre-training</b> <br>
+Shangqing Liu, Yanzhou Li, Xiaofei Xie, Wei Ma (<font color='blue'>corresponding author</font>), Guozhu Meng, Yang Liu.
+<i> TOSEM 2024</i><b></b>
+
+<br>
+<b>Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation</b> <br>
+Shangqing Liu, Wei Ma(<font color='blue'>corresponding author</font>), Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu
+<i> TOSEM 2024</i><b></b>
+
+<br>
+<b>How effective are they? Exploring large language model based fuzz driver generation</b> <br>
+Cen Zhang, Yaowen Zheng, Mingqiang Bai, Yeting Li, Wei Ma, Xiaofei Xie, Yuekang Li, Limin Sun, Yang Liu.
+<i> ISSTA 2024</i><b></b>
+
+<br>
 <b>Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning</b> <br>
 Zhihao Lin, Wei Ma(<font color='blue'>equal contribution</font>), Tao Lin, Yaowen Zheng, Jingquan Ge, Jun Wang, Jacques Klein, Tegawende Bissyande, Yang Liu, Li Li.
-<i> FSE 2030.</i><b></b>
+<i> TOSEM 2024</i><b></b>
 
 <br>
 <b>An Empirical Study on Noisy Label Learning for Program Understanding</b> <br>
