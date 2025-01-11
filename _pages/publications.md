@@ -22,7 +22,7 @@ Shangqing Liu, Yanzhou Li, Xiaofei Xie, Wei Ma (<font color='blue'>corresponding
 <br>
 <b>Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation</b> <br>
 Shangqing Liu, Wei Ma(<font color='blue'>corresponding author</font>), Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu
-<i> TOSEM 2024</i><b></b>
+<i> Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems</i><b></b>
 
 <br>
 <b>How effective are they? Exploring large language model based fuzz driver generation</b> <br>
